@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "chat-backend"
+		},
+		{
+			"path": "chat-frontend"
+		}
+	]
+}
